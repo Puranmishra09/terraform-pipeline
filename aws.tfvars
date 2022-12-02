@@ -1,0 +1,6 @@
+region             = "us-west-2"
+instance_type      = "t2.micro"
+vpc_cidr           = "178.0.0.0/16"
+public_subnet_cidr = "178.0.10.0/24"
+aws_access_key     = "AKIAYE4444BC6OEHUV72"
+aws_secret_key     = "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"
